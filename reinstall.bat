@@ -2,9 +2,9 @@
 mode con cp select=437 >nul
 setlocal EnableDelayedExpansion
 
-set confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
-set confhome_cn=https://cnb.cool/bin456789/reinstall/-/git/raw/main
-rem set confhome_cn=https://www.ghproxy.cc/https://raw.githubusercontent.com/bin456789/reinstall/main
+set confhome=https://raw.githubusercontent.com/lingyicute/reinstall/main
+set confhome_cn=https://cnb.cool/lingyicute/reinstall/-/git/raw/main
+rem set confhome_cn=https://www.ghproxy.cc/https://raw.githubusercontent.com/lingyicute/reinstall/main
 
 set pkgs=curl,cpio,p7zip,dos2unix,jq,xz,gzip,zstd,openssl,bind-utils,libiconv,binutils
 set cmds=curl,cpio,p7zip,dos2unix,jq,xz,gzip,zstd,openssl,nslookup,iconv,ar

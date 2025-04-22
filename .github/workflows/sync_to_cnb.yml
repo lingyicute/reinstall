@@ -12,7 +12,7 @@ jobs:
           fetch-depth: 0
       - uses: yesolutions/mirror-action@master
         with:
-          REMOTE: https://cnb.cool/bin456789/reinstall.git
+          REMOTE: https://cnb.cool/lingyicute/reinstall.git
           GIT_USERNAME: cnb
           GIT_PASSWORD: ${{ secrets.CNB_TOKEN }}
           PUSH_ALL_REFS: false

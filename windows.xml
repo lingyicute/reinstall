@@ -153,12 +153,6 @@
                     <PlainText>false</PlainText>
                 </AdministratorPassword>
             </UserAccounts>
-            <OOBE>
-                <HideEULAPage>true</HideEULAPage>
-                <ProtectYourPC>3</ProtectYourPC>
-                <SkipMachineOOBE>true</SkipMachineOOBE>
-                <SkipUserOOBE>true</SkipUserOOBE>
-            </OOBE>
             <!-- 不设置时区，则使用镜像的默认时区 -->
             <!-- <TimeZone>China Standard Time</TimeZone> -->
         </component>
